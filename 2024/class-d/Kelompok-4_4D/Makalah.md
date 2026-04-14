@@ -47,3 +47,6 @@ Segala puji bagi Allah SWT yang telah memberikan kami kemudahan sehingga kami da
 4. Untuk menganalisis memaparkan resiko keamanan perpustakaan dan arsip digital berdasarkan data historis.
 5. Untuk menelaah dan menjelaskan vektor dasar keamanan siber bagi perpustakaan digital atau arsip digital.
 6. Untuk menjelaskan faktor yang harus dikembangkan dan ditingkatkan dalam bagi perpustakaan dan arsip digital.
+
+7. # BAB II PEMBAHASAN
+   ## 2.1
